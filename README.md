@@ -7,3 +7,4 @@ Classic Computer Science Problems in Python
 ### Toc
 
 * [1.1 The Fibonacci Sequence](notebooks/01_1_The_Fibonacci_Sequence.ipynb)
+* [1.2 Trivial Compression](notebooks/01_2_Trivial_Compression.ipynb)
